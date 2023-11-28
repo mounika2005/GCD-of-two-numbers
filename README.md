@@ -17,13 +17,21 @@ To write a program to find the GCD of two numbers using function.
 ```
 /*
 Program to find the gcd of two number using function.
-Developed by: 
-RegisterNumber:  
+Developed by: lakshmi mounika
+RegisterNumber:  23004124
 */
+
+def gcd():
+    import math
+    gcd=math.gcd(a,b)
+    print("GCD of two numbers is:",gcd)
+a=int(input())
+b=int(input())
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![gcd](https://github.com/mounika2005/GCD-of-two-numbers/assets/145633112/0b56e961-8770-4c6c-adaf-cbfdc8941822)
+
 
 
 ## Result:
