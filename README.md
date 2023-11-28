@@ -29,6 +29,7 @@ a=int(input())
 b=int(input())
 ```
 
+
 ## Output:
 ![gcd](https://github.com/mounika2005/GCD-of-two-numbers/assets/145633112/0b56e961-8770-4c6c-adaf-cbfdc8941822)
 
